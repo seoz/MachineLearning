@@ -22,6 +22,9 @@ Material | Description
 [KAIST 응용인공지능연구실 채널 (문일철 교수님)](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg) | 유튜브
 [서울대학교 대학원 머신러닝 스터디 플레이리스트](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI) | 유튜브
 [Heesuk Son님(KAIST) 플레이리스트](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5) | 유튜브
+[인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about) | K-Mooc
+[경희대학교 2016년 가을 머신 러닝 수업](https://sites.google.com/site/khu2016fall/home/machine-learning-2016-fall) |
+
 
 ## Blogs
 Material | Description
@@ -50,3 +53,14 @@ Material | Description
 [Math is Fun](https://www.mathsisfun.com/) | Mathmatics
 [Learning Tensorflow](http://learningtensorflow.com/) |
 [CLOUD MACHINE LEARNING BETA](https://cloud.google.com/ml/) | Google Cloud ML
+[Wikipedia machine learning](https://en.wikipedia.org/wiki/Machine_learning#History_and_relationships_to_other_fields) |
+
+
+## Articles
+Material | Description
+------------ | -------------
+[머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2) |
+[Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur) | Original
+[세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.kr/2016/08/blog-post.html?m=1) | 번역
+[Introduction to Machine Learning](http://www.codeproject.com/Articles/1146582/Introduction-to-Machine-Learning) |
+[A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) |
