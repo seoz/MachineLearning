@@ -10,21 +10,21 @@ Material | Description
 ## Lectures
 Material | Description
 ------------ | -------------
-[모두를 위한 딥러닝](https://hunkim.github.io/ml/) | Sung Kim 님 한글 유튜브 강의, 설명 쉬움
+[모두를 위한 딥러닝](https://hunkim.github.io/ml/) | Sung Kim 님 한글 YouTube 강의, 설명 쉬움
 [모두를 위한 딥러닝 강좌 시즌 1 영상 모음](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) |
 [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning) | 머신 러닝 강의의 원조
 [Udacity Deep Learning by  Google](Udacity Deep Learning by Google) |
 [Deep learning workshop @ SNU](https://github.com/sjchoi86/dl-workshop) |
-[(기계학습, 인공지능, 머신러닝) 한국어 기계 학습 강좌 - KAIST 문일철 교수]((기계학습, 인공지능, 머신러닝) 한국어 기계 학습 강좌 - KAIST 문일철 교수) | 유튜브
-[chanwoo lee](https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA) | 유튜브
+[(기계학습, 인공지능, 머신러닝) 한국어 기계 학습 강좌 - KAIST 문일철 교수]((기계학습, 인공지능, 머신러닝) 한국어 기계 학습 강좌 - KAIST 문일철 교수) | YouTube
+[chanwoo lee](https://www.youtube.com/channel/UCRyIQSBvSybbaNY_JCyg_vA) | YouTube
 [Google I/O Extended Seoul 2016 - Tensorflow 101](https://www.youtube.com/watch?v=7UwAz4Jvvko) |
 [동국대 홍정모 교수님](https://www.youtube.com/channel/UCg6IlhycdYiK_nWB3spjIqA) | C++
-[KAIST 응용인공지능연구실 채널 (문일철 교수님)](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg) | 유튜브
-[서울대학교 대학원 머신러닝 스터디 플레이리스트](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI) | 유튜브
-[Heesuk Son님(KAIST) 플레이리스트](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5) | 유튜브
+[KAIST 응용인공지능연구실 채널 (문일철 교수님)](https://www.youtube.com/channel/UC9caTTXVw19PtY07es58NDg) | YouTube
+[서울대학교 대학원 머신러닝 스터디 플레이리스트](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI) | YouTube
+[Heesuk Son님(KAIST) 플레이리스트](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5) | YouTube
 [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about) | K-Mooc
 [경희대학교 2016년 가을 머신 러닝 수업](https://sites.google.com/site/khu2016fall/home/machine-learning-2016-fall) |
-
+[Tensorflow and deep learning - without at PhD by Martin Görner](https://youtu.be/vq2nnJ4g6N0) | YouTube
 
 ## Blogs
 Material | Description
@@ -69,7 +69,7 @@ Material | Description
 [Learning Tensorflow](http://learningtensorflow.com/) |
 [CLOUD MACHINE LEARNING BETA](https://cloud.google.com/ml/) | Google Cloud ML
 [Wikipedia machine learning](https://en.wikipedia.org/wiki/Machine_learning#History_and_relationships_to_other_fields) |
-
+[Tensorflow](https://www.tensorflow.org/) | Tensorflow official website
 
 ## Articles
 Material | Description
