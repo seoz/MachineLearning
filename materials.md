@@ -63,6 +63,12 @@ Material | Description
 [딥러닝 예제로 보는 개발자를 위한 통계](https://deview.kr/2016/schedule#session/171) | [발표자료](http://www.slideshare.net/deview/216-67609104), [발표영상](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=EB44457E7AA64A6B1337ED51FD7A4A9AC4E9&outKey=V1235531251f5028db6c0ce8df149e140c5c7a6fc592bb1872a46ce8df149e140c5c7&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 [Deep Recurrent Neural Network를 이용한 대용량 텍스트 마이닝 기술 및 실제 응용사례](https://deview.kr/2016/schedule#session/173) | [발표자료](http://www.slideshare.net/deview/226-67609105), [발표영상](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=5770DF1BF7CE9A09BB526F850D20745D59CD&outKey=V1230c30920b830ea86dee58a0a8243f22f4ad39d910f9b7e15cfe58a0a8243f22f4a&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
 
+## Tensorflow KR 모임
+Material | Description
+------------ | -------------
+[첫 번째 모임 (2016/6/18) 영상 플레이 리스트](https://www.youtube.com/playlist?list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) |
+[두 번째 모임 (2017/1/14) 영상 플레이 리스트](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE) | 
+
 ## Sites
 Material | Description
 ------------ | -------------
