@@ -25,6 +25,7 @@ Material | Description
 [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about) | K-Mooc
 [경희대학교 2016년 가을 머신 러닝 수업](https://sites.google.com/site/khu2016fall/home/machine-learning-2016-fall) |
 [Tensorflow and deep learning - without at PhD by Martin Görner](https://youtu.be/vq2nnJ4g6N0) | YouTube
+[골빈해커의 Tensorflow Tutorial](https://github.com/golbin/TensorFlow-Tutorials) | 
 
 ## Blogs
 Material | Description
@@ -68,6 +69,7 @@ Material | Description
 ------------ | -------------
 [첫 번째 모임 (2016/6/18) 영상 플레이 리스트](https://www.youtube.com/playlist?list=PLlMkM4tgfjnIMPagE47noYAJ222zWc4rw) |
 [두 번째 모임 (2017/1/14) 영상 플레이 리스트](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE) | 
+[두 번째 모임 (2017/1/14) 포스터 세션](https://drive.google.com/drive/folders/0B9X4BvS8d2SSdFNDUjAtemJBNlk) | 
 
 ## Sites
 Material | Description
