@@ -52,6 +52,7 @@ Material | Description
 [딥러닝 (C++)](http://m.blog.naver.com/PostList.nhn?blogId=atelierjpro&categoryNo=23) | 동국대 홍정모 교수
 [파이썬_킴](http://pythonkim.tistory.com/notice/25) | 김성훈 교수 강의 스터디 노트
 [라온 피플](http://laonple.blog.me/220587920012) | 라온 피플 업체 머신 러닝 강좌 (강추)
+[Jaejun Yoo's Playground](http://jaejunyoo.blogspot.com/) | 유재준 님의 블로그. GAN 설명이 좋다.
 
 ## Facebook Pages/Groups
 Material | Description
