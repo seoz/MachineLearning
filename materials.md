@@ -20,6 +20,7 @@ Material | Description
 [텐서플로 첫걸음](http://www.hanbit.co.kr/store/books/look.php?p_code=B3286570432) | 180페이지로 얇음, 유일한 텐서플로 한국어 책
 [가장 빨리 만나는 딥러닝 with Caffe](http://www.yes24.com/24/goods/30690055?scode=032&OzSrank=1) |
 [머신러닝 인 액션](http://www.yes24.com/24/goods/9046762) |
+[leonardoaraujosantos Artificial Inteligence Gitbook](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/) |
 
 ## Lectures
 Material | Description
